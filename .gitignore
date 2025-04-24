@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+.env
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
+
+# System
+Thumbs.db
+
+# Git
+.git/
+
+# VS Code
+.vscode/
